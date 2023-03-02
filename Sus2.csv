@@ -1,0 +1,219 @@
+plot,treatment,Id,morph,growth,growthBin,dead,algalContact,avgContact,max
+1C,C,DS1 #799,mound.crust,-0.284572131,-3,0,1,14.17,20
+1C,C,PP1 #798,branch,-0.233356211,-2,0,0,8.83,25
+1C,C,SS1 #800,mound.crust,0.498289624,4,0,1,7.67,11
+1E,"E
+ 
+ Exclosure",PP2,branch,3.48387,6,0,0,0.4,2
+1E,"E
+ 
+ Exclosure",PP1,branch,-1,-6,1,0,0,0
+1P,"P
+ 
+ Exclosure",PP1 #758,branch,1.200181159,6,0,1,16,36
+1P,"P
+ 
+ Exclosure",PA1 #759,mound.crust,0.155725191,2,0,1,5.6,16
+1P,"P
+ 
+ Exclosure",SR1,mound.crust,-0.765575502,-4,0,1,25,87
+1P,"P
+ 
+ Exclosure",P sp.,branch,0.975497703,5,0,0,0,0
+2C,C,PP1 #795,branch,0.104365278,2,0,1,15.29,38
+2C,C,PP2 #797,branch,-1,-6,1,1,30,65
+2C,C,SS1 #796,mound.crust,0.076331131,1,0,1,8.86,18
+2C,C,SS2 #794,mound.crust,-0.431542461,-3,0,1,8.43,23
+2C,C,SR1,mound.crust,0.73255814,4,0,1,6.2,25
+2C,C,SS4,mound.crust,3.363636364,6,0,0,0,0
+2E,"E
+ 
+ Exclosure",PA1 #772,mound.crust,0.268191268,3,0,1,16.67,33
+2E,"E
+ 
+ Exclosure",PP2,branch,-1,-6,1,0,0,0
+2E,"E
+ 
+ Exclosure",SS1 #773,mound.crust,-0.091400618,-1,0,1,17.8,44
+2E,"E
+ 
+ Exclosure",SS2 #774,mound.crust,0.539928932,4,0,1,9.4,23
+2E,"E
+ 
+ Exclosure",SS3,mound.crust,-1,-6,1,0,0,0
+2E,"E
+ 
+ Exclosure",AG1 #775,mound.crust,0.006040637,0,0,1,25.4,51
+2E,"E
+ 
+ Exclosure",SR2,mound.crust,0.331958763,3,0,0,0,0
+2E,"E
+ 
+ Exclosure",PP3,branch,-1,-6,1,1,21.25,40
+2E,"E
+ 
+ Exclosure",PP1,branch,-1,-6,1,0,4.2,9
+2E,"E
+ 
+ Exclosure",FF/DS1,mound.crust,1.697368421,6,0,1,22.25,33
+2E,"E
+ 
+ Exclosure",PP4,branch,3.424050633,6,0,1,10.8,21
+2P,"P
+ 
+ Exclosure",PA1 #793,mound.crust,0.094680851,-1,0,0,8,15
+2P,"P
+ 
+ Exclosure",MM1 #792,mound.crust,0.602102211,4,0,0,9.67,21
+2P,"P
+ 
+ Exclosure",PP1,branch,0.132989691,2,0,0,4,8
+2P,"P
+ 
+ Exclosure",FF1,mound.crust,0.560723514,4,0,0,12,28
+2P,"P
+ 
+ Exclosure",PP2,branch,-1,-6,1,0,5,15
+3C,C,DS1 #786,mound.crust,0.289677126,3,0,0,2,5
+3C,C,OA1 #788,mound.crust,0.521958704,4,0,0,3.7,7
+3C,C,SR1,mound.crust,0.425120773,3,0,0,0,0
+3C,C,SR2,mound.crust,-0.24612449,-2,0,0,0,0
+3C,C,SS1 #787,mound.crust,0.214141835,2,0,0,6,13
+3C,C,FF1,mound.crust,-0.06440678,-1,0,0,11.8,50
+3E,"E
+ 
+ Exclosure",PP3 #789,branch,1.228386167,6,0,1,20.6,45
+3E,"E
+ 
+ Exclosure",PA1,mound.crust,0.425764192,3,0,1,10.5,17
+3E,"E
+ 
+ Exclosure",PP2,branch,2.095238095,6,0,1,9.33,20
+3E,"E
+ 
+ Exclosure",PA2,mound.crust,0.090196078,1,0,0,2.67,5
+3E,"E
+ 
+ Exclosure",SS1 #790,mound.crust,-0.14543154,-2,0,0,5.8,10
+3E,"E
+ 
+ Exclosure",SS2 #791,mound.crust,-0.016381766,-1,0,0,17.4,24
+3P,"P
+ 
+ Exclosure",AG1,mound.crust,0.350980392,3,0,0,7.2,17
+3P,"P
+ 
+ Exclosure",D sp,mound.crust,-1,-6,1,0,0,0
+3P,"P
+ 
+ Exclosure",PA1,mound.crust,0.414156627,3,0,0,13.2,28
+4C,C,SS3 #769,mound.crust,-1,-6,1,0,20,31
+4C,C,SS4 #771,mound.crust,0.463837062,3,0,0,5.4,10
+4C,C,PP2 #770,branch,-1,-6,1,0,25,30
+4C,C,SR2,mound.crust,-0.023297491,-1,0,0,5.6,15
+4C,C,PP1,branch,0.326605505,3,0,0,8.2,33
+4C,C,SR1,mound.crust,-0.677272727,-4,0,0,2.6,8
+4C,C,PA1,mound.crust,0.433497537,3,0,0,1,4
+4E,"E
+ 
+ Exclosure",SI1 #777,mound.crust,-0.63932657,-4,0,0,20.2,25
+4E,"E
+ 
+ Exclosure",SS1,mound.crust,-0.297063903,-3,0,0,9.2,22
+4E,"E
+ 
+ Exclosure",PP1,branch,0.141560799,2,0,0,30.6,68
+4E,"E
+ 
+ Exclosure",SS3,mound.crust,-0.63141994,-4,0,0,6.4,11
+4E,"E
+ 
+ Exclosure",SS2,mound.crust,0.005479452,0,0,0,20.8,65
+4E,"E
+ 
+ Exclosure",SS4,mound.crust,-0.003267974,0,0,0,27.8,100
+4P,"P
+ 
+ Exclosure",PP2,branch,0.725158562,4,0,0,2.4,4
+4P,"P
+ 
+ Exclosure",PP3,branch,0.605734767,4,0,0,0,0
+4P,"P
+ 
+ Exclosure",PP4,branch,0.222866611,2,0,0,5.6,9
+4P,"P
+ 
+ Exclosure",PA1,mound.crust,1.1,6,0,0,3.4,9
+4P,"P
+ 
+ Exclosure",SS1,mound.crust,-0.662300683,-4,0,0,21.2,89
+4P,"P
+ 
+ Exclosure",AG1,mound.crust,-0.011235955,-1,0,0,2,5
+4P,"P
+ 
+ Exclosure",PP1 #781,branch,0.242829828,2,0,0,11.4,24
+4P,"P
+ 
+ Exclosure",PP5,branch,1.107085346,6,0,0,5,16
+5C,C,SS1 #764,mound.crust,0.256038647,3,0,0,2,4
+5C,C,PA1 #765,mound.crust,-0.706962025,-4,0,0,4.4,9
+5C,C,SR1,mound.crust,-0.380733945,-3,0,0,4.4,10
+5C,C,SR2,mound.crust,0.162758621,2,0,0,4.4,10
+5C,C,SR3,mound.crust,0.737349398,4,0,0,9,20
+5C,C,PA2,mound.crust,0.246666667,3,0,0,2.2,5
+5C,C,PP1,branch,-0.827777778,-5,0,0,12.4,50
+5C,C,PA3,mound.crust,1.214545455,6,0,0,4.8,12
+5C,C,PP2,branch,0.54770318,3,0,0,1,3
+5E,"E
+ 
+ Exclosure",MC1 #776,mound.crust,0.263143533,2,0,0,2.6,6
+5E,"E
+ 
+ Exclosure",PA2 #782,mound.crust,0.104405034,1,0,0,12.2,19
+5E,"E
+ 
+ Exclosure",PA1,mound.crust,0.059027778,1,0,0,9.17,18
+5E,"E
+ 
+ Exclosure",AG1,mound.crust,-0.330291971,-3,0,0,41.83,70
+5E,"E
+ 
+ Exclosure",AG2,mound.crust,0.002147459,0,0,0,24.6,58
+5E,"E
+ 
+ Exclosure",SS1,mound.crust,-0.214559387,-2,0,0,11.2,20
+5E,"E
+ 
+ Exclosure",PP1,branch,-0.508274232,-4,0,0,5.6,11
+5E,"E
+ 
+ Exclosure",SR1,mound.crust,-1,-6,1,0,3.33,10
+5P,"P
+ 
+ Exclosure",AG1,mound.crust,0.778219396,5,0,0,14.4,32
+5P,"P
+ 
+ Exclosure",MC1,mound.crust,-0.035412899,-1,0,0,6.5,11
+5P,"P
+ 
+ Exclosure",PP1,branch,0.129090909,2,0,0,19.8,50
+5P,"P
+ 
+ Exclosure",PP4,branch,0.54308094,4,0,0,1.4,4
+5P,"P
+ 
+ Exclosure",PP5,branch,0.251,3,0,0,14.4,50
+5P,"P
+ 
+ Exclosure",SR1,mound.crust,0.767567568,5,0,0,1,2
+6C,C,SS1 #757,mound.crust,0.111122966,2,0,0,5,17
+6C,C,PP1,branch,-0.066929134,-1,0,0,9.25,11
+6C,C,PA1,mound.crust,0.25275862,3,0,0,6.2,10
+6C,C,PA2,mound.crust,0.544736842,4,0,0,9.2,18
+6E,"E
+ 
+ Exclosure",PP1 #762,branch,-0.965604634,-5,0,0,28.33,80
+6E,"E
+ 
+ Exclosure",PP3,branch,0.590909091,4,0,0,8.7,32
